@@ -6,4 +6,5 @@
 4. Commit first project
 
 5. Learning Variables
-6. Php and html - getting keys from address bar;
+6. Php and html - getting keys from address bar
+7. Separate PHP logic from presentation
