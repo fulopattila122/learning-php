@@ -8,3 +8,5 @@
 5. Learning Variables
 6. Php and html - getting keys from address bar
 7. Separate PHP logic from presentation
+
+8. Arrays
