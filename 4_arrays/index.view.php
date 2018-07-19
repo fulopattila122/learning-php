@@ -69,6 +69,23 @@
             <li><?= $animal ?></li>
         <?php endforeach; ?>
     </ol>
+
+
+
+
+<!--Associative arrays-->
+    <ul>
+        <?php foreach ($person as $key => $val) : ?>
+            <li><strong><?= $key; ?></strong> <?= $val ?></li>
+        <?php endforeach; ?>
+    </ul>
+
+    <ul>
+        <?php foreach ($person as $feature => $property) : ?>
+            <li><strong><?= $feature; ?></strong> <?= $property ?></li>
+        <?php endforeach; ?>
+    </ul>
+
 </body>
 
 </html>
